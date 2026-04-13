@@ -1,0 +1,20 @@
+[31172:14000:0410/120231.767:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[31172:25452:0410/120231.849:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[31172:14000:0410/120231.894:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[5364:32896:0410/120243.219:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-CAC3E15F574B208C1082E023E9E747AD will be ignored
+[31172:33092:0410/120243.701:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[31172:14000:0410/120243.829:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[31172:14000:0410/120243.832:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[31172:14000:0410/120243.832:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[31172:14000:0410/120243.832:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[31172:33092:0410/120243.838:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[31172:33092:0410/120245.760:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[33660:23460:0410/120453.852:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-57DB508A84534AC722F6DA5339F1982B will be ignored
+[31172:33092:0410/121021.317:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[31172:14000:0410/122104.533:ERROR:device_event_log_impl.cc(196)] [12:21:04.450] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[31172:33092:0410/122847.093:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[31172:33092:0410/123006.377:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[31172:33092:0410/123109.432:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[31172:33092:0410/123157.766:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[31172:33092:0410/124046.387:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[31172:14000:0410/124412.042:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
