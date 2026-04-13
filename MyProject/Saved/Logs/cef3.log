@@ -1,7 +1,9 @@
-[39952:45504:0413/103607.371:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[39952:44268:0413/103607.440:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[39952:45504:0413/103607.485:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[41324:37116:0413/103613.096:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-2BE9D949676649AD2B0B00AAB009C25F will be ignored
-[39952:44760:0413/103615.693:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[39952:44760:0413/114346.007:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[39952:45504:0413/121305.336:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[43112:39644:0413/121712.849:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[43112:14272:0413/121712.912:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[43112:39644:0413/121712.946:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[26252:41864:0413/121716.708:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-BA1473436A230A44CE7592D5DE6F9661 will be ignored
+[43112:42980:0413/121720.432:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[43112:42980:0413/132229.997:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[43112:39644:0413/132233.570:ERROR:device_event_log_impl.cc(196)] [13:22:33.412] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[43112:42980:0413/135510.028:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[43112:39644:0413/142317.213:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
